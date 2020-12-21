@@ -1,0 +1,8 @@
+-desynchronisation with auto mongoose on middle piles -done
+-no timeout when trying to connect to dead server -done
+-reconnection errors rather than displays game in progress error -done (I think?)
+-mongoose logic not right (could've played top face up) (check order)
+-sort center piles -done
+-sync flip -done
+-change text colour when it's their turn -done
+-mongoose if incorrectly flipped deck
